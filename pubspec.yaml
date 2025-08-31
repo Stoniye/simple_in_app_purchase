@@ -1,7 +1,7 @@
 name: simple_in_app_purchase
-description: "A plugin that simplifies the use of the official flutter in_app_purchase plugin"
+description: "A plugin that greatly simplifies the use of the official Flutter in-app purchase plugin"
 version: 0.0.1
-homepage:
+homepage: https://github.com/Stoniye/simple_in_app_purchase
 
 environment:
   sdk: ^3.8.1
@@ -10,6 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  in_app_purchase: ^3.2.3
 
 dev_dependencies:
   flutter_test:
